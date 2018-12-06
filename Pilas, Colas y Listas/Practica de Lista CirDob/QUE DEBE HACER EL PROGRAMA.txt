@@ -1,0 +1,17 @@
+Listas Circulares
+Reaclice un programa para ingresar por teclado un nombre 
+y una cédula para generar un código alfanumérico siguendo los pasos:
+
+1. Crear una lista CirDob de letras del nombre con repeticiones
+
+2. Tomar digito a digito de izquierda a derecha para desplazarse desde 
+el último nodo visitado alternando el sentido (sig ó ant) para buscar 
+el caracter a concatenar en la clave. El primer movimiento se hará desde cabecera por sig.
+
+3. Alternar letras de la lista cirdob con dígitos de la cédula
+
+4. Imprimir la clave cuando se hayan abarcado todos los dígitos de la cédula.
+
+Nota: Repetir el programa anterior pero eliminando de la lista cirdob cada vez que
+ se tome una letra para la clave. En caso de vaciar la lista concatenar al final de
+ la clave los últimos dígitos sobrantes de la cédula.

@@ -1,0 +1,198 @@
+32;Albania;Tirana
+32;Alemania;Berlín
+32;Andorra;Andorra la Vieja
+32;Armenia;Ereván
+32;Austria;Viena
+32;azerbaiyán;Bakú
+32;Bélgica;Bruselas
+32;Bielorrusia;Minsk
+32;Bosnia y Herzegovina;Sarajevo
+32;Bulgaria;Sofía
+32;República Checa;Praga
+32;Croacia;Zagreb
+32;Dinamarca;Copenhague
+32;Eslovaquia;Bratislava
+32;Eslovenia;Lublijana
+32;España;Madrid
+32;Estonia;Tallín
+32;Finlandia;Helsinki
+32;Francia;París
+32;georgia;tiflis
+32;Grecia;Atenas
+32;Hungría;Budapest
+32;Irlanda;Dublín
+32;Islandia;Reikiavik
+32;Italia;Roma
+32;Letonia;Riga
+32;Liechtenstein;Vaduz
+32;Lituania;Vilna
+32;Luxemburgo;Luxemburgo
+32;República de Macedonia;Skopje
+32;Malta;La Valeta
+32;Moldavia;Chisinau
+32;Mónaco;Mónaco
+32;Montenegro;Podgorica
+32;Noruega;Oslo
+32;Países Bajos;Amsterdam
+32;Polonia;Varsovia
+32;Portugal;Lisboa
+32;Reino Unido;Londres
+32;Rumania;Bucarest
+32;rusia;moscú
+32;San Marino;Ciudad de San Marino
+32;Serbia;Belgrado
+32;Suecia;Estocolmo
+32;Suiza;Berna
+32;Ucrania;Kiev
+32;Vaticano;Ciudad del Vaticano
+23;Antigua v Barbuda;Saint John's
+23;Argentina;Buenos Aires
+23;Bahamas;Nassau
+23;Barbados;Bridgetown
+23;Belice;Belmopán
+23;Bolivia;SUCRE, la paz
+23;Brasil;Brasilia
+23;Canadá;Ottawa
+23;Chile;Santiago de Chile
+23;Colombia;Bogotá
+23;Costa Rica;San José
+23;Cuba;La Habana
+23;Dominica;Roseau
+23;República Dominicana;Santo Domingo
+23;Ecuador;Quito
+23;El Salvador;San Salvador
+23;Estados Unidos;Washington D. C.
+23;Granada;Saint George's
+23;Guatemala;Ciudad de Guatemala
+23;Guyana;Georgetown
+23;Haití;Puerto Príncipe
+23;Honduras;Tegucigalpa
+23;Jamaica;Kingston
+23;México;México D. F.
+23;Nicaragua;Managua
+23;Panamá;Ciudad de Panamá
+23;Paraguay;Asunción
+23;Perú;Lima
+23;puerto rico;san juan
+23;San Cristóbal y Nieves;Basseterre
+23;Santa Lucía;Castries
+23;San Vicente y las Granadinas;Kingstown
+23;Surinam;Paramaribo
+23;Trinidad y Tobago;Puerto España
+23;Uruguay;Montevideo
+23;Venezuela;Caracas
+27;Afganistán;Kabul
+27;Arabia Saudita;Riad
+27;Baréin;Manamá
+27;Bangladés;Daca
+27;Brunei;Bandar Seri Begawan
+27;Bután;Timbu
+27;Camboya;Pnon Pehn
+27;Catar;DOHA
+27;China;Pekín
+27;Chipre;Nicosia
+27;Corea del Norte;Pyongyang
+27;Corea del Sur;Seúl
+27;Emiratos Arabes Unidos;Abu Dabi
+27;Filipinas;Manila
+27;India;Nueva Delhi
+27;Indonesia;Yakarta
+27;Irán;Teherán
+27;Iraq;Bagdad
+27;Israel;Jerusalén
+27;Japón;Tokio
+27;Jordania;Ammán
+27;Kazajistán;Astaná
+27;Kirguistán;Biskek
+27;Kuwait;Ciudad de Kuwait
+27;Laos;Vientián
+27;Líbano;Beirut
+27;Malasia;Kuala Lumpur
+27;Maldivas;Malé
+27;Mongolia;Ulan Bator
+27;Myanmar (birmania);Naypyidaw
+27;Nepal;Katmandú
+27;Omán;Mascate
+27;Pakistán;Islamabad
+27;PALESTINA;RAMALA
+27;Singapur;Singapur
+27;Siria;Damasco
+27;Sri Lanka;sri jayawardenapura
+27;Tailandia;Bangkok
+27;taiwan;taipeh
+27;Tayikistán;Dusambé
+27;Timor Oriental;Dili
+27;Turkmenistán;Asjabad
+27;Turquía;Ankara
+27;Uzbekistán;Tashkent
+27;Vietnam;Hanoi
+27;Yemen;Saná
+15;Angola;Luanda
+15;Argelia;Argel
+15;Benin;Porto-Novo
+15;Botsuana;Gaberones
+15;Burkina Faso;Uagadugú
+15;Burundi;Buyumbura
+15;Cabo Verde;Praia
+15;Camerún;Yaundé
+15;República Centroafricana;Bangui
+15;Chad;Yamena
+15;Comoras;Moroni
+15;República del Congo;Brazzaville
+15;República Democrática del Congo;Kinshasa
+15;Costa de Marfil;Yamusukro, abiyán
+15;Egipto;El Cairo
+15;Eritrea;Asmara
+15;Etiopía;Adís Abeba
+15;Gabón;Libreville
+15;Gambia;Banjul
+15;Ghana;Accra
+15;Guinea;Conakry
+15;Guinea-Bissau;Bissau
+15;Guinea Ecuatorial;Malabo
+15;Kenia;Nairobi
+15;Lesoto;Maseru
+15;LIBERIA;MONROVIA
+15;Libia;Trípoli
+15;Madagascar;Antananarivo
+15;Malaui;Lilongüe
+15;Mali;Bamako
+15;Marruecos;Rabat
+15;Mauricio;Port Louis
+15;Mauritania;Nuakchot
+15;Mozambique;Maputo
+15;Namibia;Windhoek
+15;Níger;Niamey
+15;Nigeria;Abuya
+15;república saharaui;el aaiún
+15;Ruanda;Kigali
+15;Santo Tomé y Príncipe;Santo Tomé
+15;Senegal;Dakar
+15;Seychelles;Victoria
+15;Sierra Leona;Freetown
+15;Somalia;Mogadiscio
+15;Suazilandia;Mbabane
+15;Sudáfrica;Pretoria, Ciudad del Cabo, Bloemfontein
+15;Sudán del norte;Jartum
+15;sudán del sur;yuba
+15;Tanzania;Dodoma
+15;Togo;Lomé
+15;Túnez;Túnez
+15;uganda;kampala
+15;Yibuti;Yibuti
+15;Zambia;Lusaka
+15;Zimbabue;Harare
+45;Australia;Canberra
+45;Fiyi;Suva
+45;Kiribati;Tarawa
+45;Islas Marshall;Majuro
+45;Micronesia;Palikir
+45;Nauru;Yaren
+45;Nueva Zelanda;Wellington
+45;Palaos;Melekeok
+45;Papúa Nueva Guinea;Port Moresby
+45;Islas Salomón;Honiara
+45;Samoa;Apia
+45;Tonga;Nuku'alofa
+45;Tuvalu;Funafuti
+45;Vanuatu;Port Vila

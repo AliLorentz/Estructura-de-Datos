@@ -1,0 +1,8 @@
+30, Maracay
+10, La Fria
+40, La Carlota
+20, Guanare
+00, Paramillo
+50, El llanito
+60, Guasdalito
+70, La Piedra
